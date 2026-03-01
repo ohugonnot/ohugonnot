@@ -1,6 +1,6 @@
 # Odilon Hugonnot
 
-Développeur full-stack senior basé à Besançon. Je travaille principalement sur des architectures backend Go et PHP/Symfony, avec Vue.js côté front. J'aime les projets où la contrainte technique est réelle.
+Développeur full-stack senior basé à Besançon. Je travaille principalement sur des architectures backend Go et PHP/Symfony, avec Vue.js côté front. J'aime les projets où la contrainte technique est réelle. Ancien formateur développeur web, j'ai conçu et dispensé des formations sur la POO, le développement web et les bonnes pratiques.
 
 ## Stack
 
