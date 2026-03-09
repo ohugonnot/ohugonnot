@@ -13,9 +13,10 @@ Développeur full-stack senior basé à Besançon. Je travaille principalement s
 | Projet | Description |
 |--------|-------------|
 | [claudegate](https://github.com/ohugonnot/claudegate) | HTTP gateway qui expose Claude Code CLI comme API REST |
-| [claude-code-statusline](https://github.com/ohugonnot/claude-code-statusline) | Suivi temps réel des quotas Claude Code dans le terminal |
+| [sharebox](https://github.com/ohugonnot/sharebox) | Partage de fichiers self-hosted avec streaming vidéo intégré |
 | [citoyen-note](https://github.com/ohugonnot/citoyen-note) | Portail civic-tech d'évaluation des services publics locaux |
-| [rtorrent-rutorrent-peer-management](https://github.com/ohugonnot/rtorrent-rutorrent-peer-management) | Script de gestion dynamique des peers rTorrent via l'API httprpc |
+| [arcalib](https://github.com/ohugonnot/arcalib) | Logiciel de gestion d'unité de recherche clinique |
+| [claude-code-statusline](https://github.com/ohugonnot/claude-code-statusline) | Suivi temps réel des quotas Claude Code dans le terminal |
 | [coder-proprement](https://github.com/ohugonnot/coder-proprement) | Synthèse personnelle de Clean Code — SOLID, nommage, tests, architecture |
 
 ## Blog & CV
