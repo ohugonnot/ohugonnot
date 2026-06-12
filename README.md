@@ -31,7 +31,11 @@ Media server self-hosted en PHP pur. Zéro dépendance, tourne sur un Raspberry 
 | [claude-code-statusline](https://github.com/ohugonnot/claude-code-statusline) | Suivi temps réel des quotas Claude Code dans le terminal |
 | [coder-proprement](https://github.com/ohugonnot/coder-proprement) | Synthèse personnelle de Clean Code — SOLID, nommage, tests, architecture |
 
-## Blog & CV
+## Cours, outils & blog
 
-- Portfolio & CV : [web-developpeur.com](https://www.web-developpeur.com)
-- Blog technique (Go, PHP, DevOps) : [web-developpeur.com/blog](https://www.web-developpeur.com/blog)
+- Le portail : [web-developpeur.com](https://www.web-developpeur.com/)
+- Cours interactifs gratuits (21 cours, 185 leçons, dont [coder avec l'IA](https://www.web-developpeur.com/apprendre/coder-avec-ia/)) : [web-developpeur.com/apprendre](https://www.web-developpeur.com/apprendre/)
+- Outils web gratuits (TJM, contraste WCAG, cURL...) : [web-developpeur.com/outils](https://www.web-developpeur.com/outils/)
+- Blog technique (Go, PHP, IA, DevOps) : [web-developpeur.com/blog](https://www.web-developpeur.com/blog/)
+- Bibliothèque de fiches de lecture dev : [web-developpeur.com/bibliotheque](https://www.web-developpeur.com/bibliotheque/)
+- CV : [web-developpeur.com/cv](https://www.web-developpeur.com/cv/)
